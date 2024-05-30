@@ -1,10 +1,6 @@
 # Playtime Command
 An oxide plugin for Rust that allows a player to use the /playtime command to retrieve their hours played on the current server from BattleMetrics API.
 
-**Author:** Papa 
-**Version:** 1.1.0  
-**Description:** Shows playtime of a player on a specific server using BattleMetrics API.
-
 ## Overview
 
 The Playtime Command plugin provides a command for players to check their total playtime on a specific Rust server. It retrieves data from the BattleMetrics API, ensuring players have access to accurate playtime statistics.
